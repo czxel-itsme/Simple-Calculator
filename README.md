@@ -9,4 +9,4 @@ How to use :
 
 > g++ -o calculator kalkulator.cpp
 
-> ./kalkulator
+> ./calkulator
