@@ -13,7 +13,7 @@ int main()
     {
 
         cout << "---------------------------" << endl;
-        cout << "    K A L K U L A T O R    " << endl;
+        cout << "    C A L C U L A T O R    " << endl;
         cout << "                           " << endl;
         cout << "   B y t e D e v C o d e   " << endl;
         cout << "---------------------------" << endl;
