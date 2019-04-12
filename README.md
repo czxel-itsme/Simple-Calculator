@@ -18,6 +18,9 @@ How to use :
 
 > cd Simple-Calculator
 
-> g++ -o calculator calculator.cpp or g++ -o calculator calculatorV2.cpp
+> 1. g++ -o calculator calculator.cpp 
+> 2. g++ -o calculator calculatorV2.cpp
 
 > ./calkulator
+
+Thanks to ByteDevCode and Dabi Haxor
