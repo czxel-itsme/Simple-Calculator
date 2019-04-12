@@ -10,8 +10,6 @@ Description :
 
 -calculatorV2.cpp using Switch Case Statement
 
-My project using C++ languange
-
 How to use :
 
 > git clone https://github.com/czxel-itsme/Simple-Calculator
@@ -21,6 +19,6 @@ How to use :
 > 1. g++ -o calculator calculator.cpp 
 > 2. g++ -o calculator calculatorV2.cpp
 
-> ./calkulator
+> ./calculator
 
-Thanks to ByteDevCode and Dabi Haxor
+
