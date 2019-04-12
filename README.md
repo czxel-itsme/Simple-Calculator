@@ -22,3 +22,4 @@ How to use :
 > ./calculator
 
 
+Thanks to ByteDevCode and Dabi Haxor
