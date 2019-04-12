@@ -1,5 +1,16 @@
+# New Update !!!
 # Simple-Calculator
-My first project using C++ languange
+
+-calculator.cpp
+-calculatorV2.cpp
+
+Description : 
+
+-calculator.cpp using If Else Statement
+
+-calculatorV2.cpp using Switch Case Statement
+
+My project using C++ languange
 
 How to use :
 
@@ -7,6 +18,6 @@ How to use :
 
 > cd Simple-Calculator
 
-> g++ -o calculator kalkulator.cpp
+> g++ -o calculator calculator.cpp or g++ -o calculator calculatorV2.cpp
 
 > ./calkulator
